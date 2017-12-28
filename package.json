@@ -1,0 +1,21 @@
+{
+  "name": "apollo-server-adonis-eagerload",
+  "version": "1.0.0",
+  "description": "Eager loading query resolver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastito03/apollo-server-adonis-eagerload.git"
+  },
+  "keywords": ["apollo", "adonis", "eager loading"],
+  "author": "mastito03",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mastito03/apollo-server-adonis-eagerload/issues"
+  },
+  "homepage":
+    "https://github.com/mastito03/apollo-server-adonis-eagerload#readme"
+}
