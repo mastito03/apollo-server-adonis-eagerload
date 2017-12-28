@@ -6,7 +6,7 @@ module.exports.eagerLoad = function(query, fieldNodes) {
         query = __eagerLoad(
           query,
           selection.selectionSet,
-          selection.name.value + '.'
+          name + selection.name.value + '.'
         )
       }
     }
